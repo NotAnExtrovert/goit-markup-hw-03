@@ -317,8 +317,9 @@ address{
 }
 
 
-/* Profile */
 
+
+/* Profile */
 .profile-section {
     padding-top: 0;
     padding-bottom: 94px;
@@ -404,7 +405,6 @@ address{
     margin: 0;
     border: 1px solid #EEEEEE;
     flex-basis: calc((100% - 60px)/3);
-
 }
 
 .logo-studio-footer {
